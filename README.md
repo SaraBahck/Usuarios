@@ -28,5 +28,6 @@ O retorno esperado é:
 
 # 😄 Obrigada!
 
-Obrigada por ler meu código, no meu perfil tem meu Linkedin e meu Instagram onde você pode entrar em contato comigo" :D
+Obrigada por ler meu código, estou no início da minha jornada na programação, se quiser entrar em contato comigo, no [meu perfil](https://github.com/SaraBahck) tem meu Linkedin e Instagram onde você pode entrar em contato comigo! :D
+
 <img src="Luffy.gif">
